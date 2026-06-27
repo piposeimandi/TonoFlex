@@ -30,8 +30,7 @@ venv/
 dist/
 build/
 
-# Paquete .deb
-*.deb
+
 
 # Temp
 __pycache__/

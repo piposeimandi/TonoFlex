@@ -1,0 +1,41 @@
+# Audios descargados y convertidos
+descargas/
+convertidos/
+
+# Archivos de audio comunes
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.aac
+*.opus
+*.wma
+
+# Videos
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.webm
+*.wmv
+
+# Entorno virtual
+venv/
+.env/
+.venv/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Paquete .deb
+*.deb
+
+# Temp
+__pycache__/
+*.pyc
+*.pyo
+*~
+.swp

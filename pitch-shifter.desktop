@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pitch Shifter
+Comment=Ajuste de tono de audio/video sin cambiar la velocidad
+Exec=/home/adrian/Proyectos/audio/run.sh
+Icon=/home/adrian/Proyectos/audio/pitch-shifter.png
+Terminal=false
+Categories=AudioVideo;Audio;Music;
+StartupNotify=true
